@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a0efa636d90d7af1",
+        "id": "9205be5937a50117",
         "type": "tabs",
         "children": [
           {
-            "id": "94201bfe4b28810c",
+            "id": "9cc2837df6b8872e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interazione uomo-macchina/Design del prodotto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "701153ff3f4dfa2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interazione uomo-macchina/Discoverability.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -61,30 +78,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c8dc826cc4d57259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interazione uomo-macchina/Interaction design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "578bad723d74545a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interazione uomo-macchina/Interaction design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -106,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interazione uomo-macchina/Discoverability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interazione uomo-macchina/Discoverability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interazione uomo-macchina/Discoverability.md"
+              }
             }
           },
           {
@@ -173,15 +170,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94201bfe4b28810c",
+  "active": "701153ff3f4dfa2b",
   "lastOpenFiles": [
+    "Immagini",
+    "Nuova cartella",
+    "Interazione uomo-macchina/Design del prodotto.md",
+    "Interazione uomo-macchina/Discoverability.md",
     "Interazione uomo-macchina/Interaction design.md",
     "Interazione uomo-macchina/Human centered design.md",
-    "Interazione uomo-macchina/UX design.md",
-    "Interazione uomo-macchina/Design del prodotto.md",
-    "Interazione uomo-macchina/UI design.md",
-    "Interazione uomo-macchina/Prodotto.md",
     "Interazione uomo-macchina/Product designer.md",
+    "Interazione uomo-macchina/Prodotto.md",
+    "Questo PC - collegamento.lnk",
+    "Nuovo Documento di testo.txt",
+    "Interazione uomo-macchina/UX design.md",
+    "Interazione uomo-macchina/UI design.md",
     "Ricerca operativa",
     "UC designer.md",
     "requirements.md",

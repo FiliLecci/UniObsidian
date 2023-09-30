@@ -15,3 +15,4 @@ In particolare in questo corso il focus sarà sulla parte del processo di Design
 Generalmente in italiano tendiamo ad attribuire alla parola *Design* due significati:
 - Il **processo di progettazione** (il processo di design di un'interfaccia);
 - Il **risultato** di tale processo (il design dell'interfaccia).
+***
