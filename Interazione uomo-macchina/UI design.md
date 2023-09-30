@@ -1,0 +1,4 @@
+Lo sviluppo dell UI avviene in contemporanea con il quello della [[UX design]].
+Lo UI designer ha l'arduo compito di studiare e progettare il modo in cui l'utente interagisce con il prodotto; è colui che si deve preoccupare del modo in cui il prodotto si presenta e viene visto dall'utente e di conseguenza l'immagine stessa del prodotto e dell'azienda.
+UX e UI designer spesso possono essere la stessa persona e dovrebbero (almeno di solito) avere soltanto un ruolo progettuale e non di sviluppo; il modo di pensare è infatti molto diverso ([[Pensiero computazionale]] per lo sviluppatore).
+La figura che si occupa dello sviluppo della UI è guarda caso proprio lo sviluppatore che mette le sue conoscenze in gioco per fare si che la visione dello UI designer sia realizzata.

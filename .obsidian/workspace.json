@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "02cb68bf9c6284ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0efa636d90d7af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94201bfe4b28810c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec5a07c87287f9fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e905e500d5b232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9788dbde53bb6cee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea4612426bf0af66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc4c7b121c3c2739",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8dc826cc4d57259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interazione uomo-macchina/Interaction design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "578bad723d74545a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interazione uomo-macchina/Interaction design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "627def288f3f7436",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d60276afb9567b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf71e2b9551b165",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bccb72d0751a9c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d99e5bb82dcecad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5ab130facac146e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea6ef814040028a0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Apri importazione Markdown": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "94201bfe4b28810c",
+  "lastOpenFiles": [
+    "Interazione uomo-macchina/Interaction design.md",
+    "Interazione uomo-macchina/Human centered design.md",
+    "Interazione uomo-macchina/UX design.md",
+    "Interazione uomo-macchina/Design del prodotto.md",
+    "Interazione uomo-macchina/UI design.md",
+    "Interazione uomo-macchina/Prodotto.md",
+    "Interazione uomo-macchina/Product designer.md",
+    "Ricerca operativa",
+    "UC designer.md",
+    "requirements.md",
+    "Interazione uomo-macchina",
+    "TEST.md",
+    "Progetto Lab II/Unbounded queue.md",
+    "Progetto Lab II/Tipi.md",
+    "Progetto Lab II/Server.md",
+    "Progetto Lab II/Grafico programma.canvas",
+    "Progetto Lab II/Client.md",
+    "Untitled.canvas",
+    "Progetto Lab II"
+  ]
+}
