@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9205be5937a50117",
+        "id": "6e09f0342bbabe54",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc2837df6b8872e",
+            "id": "bff52bb159edb45e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,39 @@
             }
           },
           {
-            "id": "701153ff3f4dfa2b",
+            "id": "102b9a083967f13a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interazione uomo-macchina/Discoverability.md",
+                "file": "Interazione uomo-macchina/Target.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "81523b80e6805670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User persona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "109a820ec5b5bb95",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interazione uomo-macchina/Discoverability.md",
+                "file": "User persona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interazione uomo-macchina/Discoverability.md",
+                "file": "User persona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interazione uomo-macchina/Discoverability.md"
+                "file": "User persona.md"
               }
             }
           },
@@ -170,16 +190,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "701153ff3f4dfa2b",
+  "active": "81523b80e6805670",
   "lastOpenFiles": [
+    "Interazione uomo-macchina/Target.md",
+    "User persona.md",
+    "Interazione uomo-macchina/Design del prodotto.md",
+    "Ricerca operativa/Generale.md",
+    "Interazione uomo-macchina/Interaction design.md",
+    "Interazione uomo-macchina/Discoverability.md",
+    "Interazione uomo-macchina/Prodotto.md",
     "Immagini",
     "Nuova cartella",
-    "Interazione uomo-macchina/Design del prodotto.md",
-    "Interazione uomo-macchina/Discoverability.md",
-    "Interazione uomo-macchina/Interaction design.md",
     "Interazione uomo-macchina/Human centered design.md",
     "Interazione uomo-macchina/Product designer.md",
-    "Interazione uomo-macchina/Prodotto.md",
     "Questo PC - collegamento.lnk",
     "Nuovo Documento di testo.txt",
     "Interazione uomo-macchina/UX design.md",

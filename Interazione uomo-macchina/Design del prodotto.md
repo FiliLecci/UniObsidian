@@ -9,3 +9,6 @@ Mentre normalmente uno sviluppatore inizierebbe subito a correggere l'errore, il
 Durante il processo di design del prodotto dobbiamo tenere conto di due proprietà principali di esso che lo rendono più appetibile all'uso da parte degli utenti:
 - [[Discoverability]];
 - [[Understanding]].
+***
+Come possiamo però creare un prodotto che ha come base il principio dello [[Human centered design]] se non sappiamo effettivamente chi è il nostro utente?
+A questo scopo viene per ogni prodotto identificato un [[Target]] che farà da guida e da "utente" ideale che il prodotto ha intensione di raggiungere.

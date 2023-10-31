@@ -1,0 +1,1 @@
+Un target a differenza della concezione comune non è composto da un solo soggetto, ma bensì è un insieme di [[User persona]] ognuna delle quali rappresenta un tipo di utente per il quale abbiamo intenzione di progettare il prodotto.
