@@ -1,0 +1,3 @@
+È un componente che non ha input ed ha un solo output. Serve a "dare il tempo" ai vari componenti (tipo [[D - Latch]] o [[D - flip flop]]) tramite un segnale periodico e quindi ad evitare molti problemi che potrebbero derivare da input che cambiano in modi strani.
+___
+La durata di un ciclo di clock è definita in *Hz* (cicli al secondo) ed ogni ciclo va da quando il segnale da basso va ad alto e torna basso.

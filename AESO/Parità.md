@@ -1,0 +1,4 @@
+La parità di una stringa (sequenza) di bit consiste semplicemente nel controllare se la suddetta stringa contiene un numero pari o dispari di $1$.
+Ciò viene fatto utilizzando a fianco di ogni *byte* un bit aggiuntivo che ne indica la parità ($0$ se c'è un numero dispari di $1$, $1$ altrimenti).
+Questa proprietà, per quanto sembri banale, è molto utile per prevenire errori di 1 bit; se infatti c'è stato un cambio di bit (a causa di una particella cosmica ad esempio) il numero di $1$ e $0$ all'interno del *byte* cambia, ma il bit di parità indicherà ancora il valore corretto (o viceversa).
+Al momento della lettura se il bit di parità e la parità effettiva non corrispondono si applicano algoritmi specifici per cercare di correggere l'errore. 

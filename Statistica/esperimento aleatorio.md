@@ -1,0 +1,1 @@
+Fenomeno (fisico,biologico,sociale,...) il cui esito non è determinato con certezza a priori (es: estrazione di una biglia da un'urna, lancio di una moneta, misurazione dell'altezza di una persona...).

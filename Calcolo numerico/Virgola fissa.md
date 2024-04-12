@@ -1,0 +1,1 @@
+ Abbiamo un segno, con parte intera e parte frazionaria di lunghezze rispettivamente $1,I,N(I+1)$.

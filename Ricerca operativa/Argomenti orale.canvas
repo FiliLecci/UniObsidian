@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"395f825f4bece1a6","type":"group","x":460,"y":-520,"width":1040,"height":1040,"color":"6","label":"Dimostrazioni"},
+		{"id":"bd7cae3cb50c2580","type":"text","text":"Argomenti esame orale","x":-222,"y":-91,"width":250,"height":60},
+		{"id":"38278639e26cb6f1","type":"file","file":"Ricerca operativa/Funzione obiettivo.md","x":-497,"y":120,"width":400,"height":420,"color":"4"},
+		{"id":"e0cf5fe486b82281","type":"file","file":"Ricerca operativa/Teoria debole della dualità.md","x":-40,"y":130,"width":440,"height":400},
+		{"id":"e2b9ba5c15a81222","x":-840,"y":-340,"width":400,"height":400,"type":"file","file":"Ricerca operativa/Pseudocodici algoritmi.md"},
+		{"id":"b64c19aa3f2d2074","type":"file","file":"Ricerca operativa/SPT L.md","subpath":"#Dimostrazione SPT L","x":480,"y":-480,"width":340,"height":936},
+		{"id":"4366b09009bf2cd6","type":"file","file":"Ricerca operativa/Edmonds & Karp 2.4.2.md","x":860,"y":-480,"width":480,"height":400},
+		{"id":"83ef3ef6a2abddde","x":860,"y":-40,"width":400,"height":400,"type":"file","file":"Ricerca operativa/Decomposizione di poliedri (3.1.1.2).md"}
+	],
+	"edges":[
+		{"id":"cb99503e82ccf8d9","fromNode":"bd7cae3cb50c2580","fromSide":"bottom","toNode":"38278639e26cb6f1","toSide":"top"},
+		{"id":"174580ee3e554e0f","fromNode":"bd7cae3cb50c2580","fromSide":"bottom","toNode":"e0cf5fe486b82281","toSide":"top"},
+		{"id":"7ac89e6dc06bc228","fromNode":"bd7cae3cb50c2580","fromSide":"left","toNode":"e2b9ba5c15a81222","toSide":"right"},
+		{"id":"c05ccc28fbc76af6","fromNode":"bd7cae3cb50c2580","fromSide":"right","toNode":"395f825f4bece1a6","toSide":"left"}
+	]
+}
