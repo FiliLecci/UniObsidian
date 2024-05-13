@@ -1,2 +1,0 @@
-Una *user persona* rappresenta un potenziale utente; nello user centered-design aiuta il team di design a creare un design che sia creato su misura per gli utenti.
-Sono una parte fondamentale e integrale della fase di ricerca e studio della [[User experience]] 

@@ -13,7 +13,7 @@ ___
 \begin{document}
 \begin{figure}[!ht]
 \centering
-\resizebox{1\textwidth}{!}{%
+\resizebox{1\textwidth}{!}{
 \begin{circuitikz}
 \tikzstyle{every node}=[font=\Large]
 \draw [](10,5.75) to[short] (10,5);
@@ -43,10 +43,8 @@ ___
 \node [font=\Large] at (11.25,3.25) {not Q};
 \node [font=\Large] at (11,3.25) {Text};
 \end{circuitikz}
-}%
+}
 \end{document}
-
-\label{fig:my_label}
 \end{figure}
 ```
 

@@ -1,4 +1,5 @@
 {
   "accentColor": "#a4ba69",
-  "translucency": false
+  "translucency": false,
+  "theme": "obsidian"
 }

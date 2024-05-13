@@ -1,73 +1,80 @@
 {
   "main": {
-    "id": "02cb68bf9c6284ea",
+    "id": "b7fad6d5e68a1c8f",
     "type": "split",
     "children": [
       {
-        "id": "6e09f0342bbabe54",
+        "id": "794c8cc4a7c4952e",
         "type": "tabs",
         "children": [
           {
-            "id": "bff52bb159edb45e",
+            "id": "e3c5b434b675af73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interazione uomo-macchina/Design del prodotto.md",
+                "file": "AESO/Info corso.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "102b9a083967f13a",
+            "id": "7bfaa98ad3254d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interazione uomo-macchina/Target.md",
+                "file": "AESO/Reti sequenziali.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "81523b80e6805670",
+            "id": "5b8de52f2ab79cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User persona.md",
+                "file": "AESO/Memorie.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "109a820ec5b5bb95",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "currentTab": 2
+      },
+      {
+        "id": "de2600a64dbea9fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919485b299e97ffd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AESO/Aeso.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ec5a07c87287f9fb",
+    "id": "4be371e06654ab80",
     "type": "split",
     "children": [
       {
-        "id": "19e905e500d5b232",
+        "id": "31a04d44cac7a8bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9788dbde53bb6cee",
+            "id": "b2831bd2c0a70ca1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +84,7 @@
             }
           },
           {
-            "id": "ea4612426bf0af66",
+            "id": "46121abaa05b0edc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,10 +99,18 @@
             }
           },
           {
-            "id": "cc4c7b121c3c2739",
+            "id": "6b86d482f1ad4a16",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "730508daa34feafc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
               "state": {}
             }
           }
@@ -103,23 +118,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "627def288f3f7436",
+    "id": "6c00679dfecc5fb5",
     "type": "split",
     "children": [
       {
-        "id": "3d60276afb9567b8",
+        "id": "0bde7ee28d6bd957",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf71e2b9551b165",
+            "id": "348f8f0668c83ce7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User persona.md",
+                "file": "AESO/Memorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,19 +147,19 @@
             }
           },
           {
-            "id": "bccb72d0751a9c0a",
+            "id": "bab7fb9900ab3151",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User persona.md",
+                "file": "AESO/Memorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0d99e5bb82dcecad",
+            "id": "3894f1a915cc8a29",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,21 +170,13 @@
             }
           },
           {
-            "id": "e5ab130facac146e",
+            "id": "b7364abc40d8363c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "User persona.md"
+                "file": "AESO/Memorie.md"
               }
-            }
-          },
-          {
-            "id": "ea6ef814040028a0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -180,44 +188,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Apri importazione Markdown": false,
-      "switcher:Apri selezione rapida": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Apri vista grafo": false,
+      "switcher:Apri selezione rapida": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "81523b80e6805670",
+  "active": "5b8de52f2ab79cac",
   "lastOpenFiles": [
-    "Interazione uomo-macchina/Target.md",
-    "User persona.md",
-    "Interazione uomo-macchina/Design del prodotto.md",
-    "Ricerca operativa/Generale.md",
-    "Interazione uomo-macchina/Interaction design.md",
-    "Interazione uomo-macchina/Discoverability.md",
-    "Interazione uomo-macchina/Prodotto.md",
-    "Immagini",
-    "Nuova cartella",
-    "Interazione uomo-macchina/Human centered design.md",
-    "Interazione uomo-macchina/Product designer.md",
-    "Questo PC - collegamento.lnk",
-    "Nuovo Documento di testo.txt",
-    "Interazione uomo-macchina/UX design.md",
-    "Interazione uomo-macchina/UI design.md",
-    "Ricerca operativa",
-    "UC designer.md",
-    "requirements.md",
-    "Interazione uomo-macchina",
-    "TEST.md",
-    "Progetto Lab II/Unbounded queue.md",
-    "Progetto Lab II/Tipi.md",
-    "Progetto Lab II/Server.md",
-    "Progetto Lab II/Grafico programma.canvas",
-    "Progetto Lab II/Client.md",
-    "Untitled.canvas",
-    "Progetto Lab II"
+    "AESO/Info corso.md",
+    "AESO/Reti sequenziali.md",
+    "AESO/Memorie.md",
+    "AESO/Aeso.pdf",
+    "AESO/Sincronizzatori.md",
+    "Immagini/circuitoSincronizzatore.png",
+    "AESO/Automi.md",
+    "AESO/ALEE.md",
+    "AESO/AESO.md",
+    "AESO/Memorie associative.md",
+    "AESO/Verilog.md",
+    "AESO/Latch SR.md",
+    "Immagini/automaMoore.png",
+    "Immagini/circuitoAutomaMoore.png",
+    "Immagini/circuitoAutomaMealy.png",
+    "Immagini/Screenshot_20240412_145223.png",
+    "AESO/D - flip flop.md",
+    "Immagini/automaMealy.png",
+    "Immagini/automaMeely.png",
+    "Immagini/Screenshot_20240412_115630.png",
+    "Statistica/02-02-2024.md",
+    "AESO/Clock.md",
+    "Immagini/flipflopD.png",
+    "AESO/D - Latch.md",
+    "Immagini/latchD.png",
+    "AESO/Parità.md",
+    "AESO/DEMUX.md",
+    "AESO/MUX.md",
+    "Spaces/Home",
+    "Spaces",
+    "AESO/Porte logiche.md",
+    "AESO/Ritardo della porta.md",
+    "AESO/Numeri binari negativi.md",
+    "vdc visite mediche.md",
+    "E-Team/ROS2.md",
+    "AESO/Complemento a 2.md"
   ]
 }

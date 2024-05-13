@@ -1,5 +1,9 @@
 [
   "obsidian-math-plus",
   "highlightr-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-tikzjax",
+  "make-md",
+  "multi-column-markdown",
+  "obsidian-pandoc"
 ]

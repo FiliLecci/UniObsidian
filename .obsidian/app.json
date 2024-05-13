@@ -1,6 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
@@ -8,5 +9,8 @@
   },
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "strictLineBreaks": true
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "promptDelete": false
 }

@@ -1,59 +1,26 @@
 [[Latch SR]]
 [[D - Latch]]
 [[D - flip flop]]
+[[Automi]]
+[[Sincronizzatori]]
+[[Memorie]]
 ___
-## Automi
-Un automa è qualcosa in cui gli ingressi e lo stato corrente determinano l'uscita ed il prossimo stato.
-Esistono due tipi di automi:
-- ***Mealy***: l'uscita dipende sia dallo **stato** che dall'**ingresso**:
-  Gli archi sono etichettati con gli ingressi e le uscite.
-- ***Moore***: l'uscita dipende solo dallo **stato**:
-  Gli archi sono etichettati solo con gli ingressi e le uscite sono etichettate negli stati.
+Una rete sequenziale ha una serie di stati discreti $\{S_0, S_1, ..., S_{k-1}\}$.
+Una rete sequenziale è definita sincrona se presenta in ingresso un clock ed i suoi elementi circuitali sono interconnessi in modo tale che:
+- ogni elemento o è un registro o una rete combinatoria;
+- deve essere presente almeno un registro;
+- tutti i registri ricevono lo stesso segnale di clock;
+- ogni percorso ciclico contiene almeno un registro.
+
+In alcune situazioni vengono invece usate reti asincrone, utili ad esempio quando la comunicazione avviene tra due sistemi con segnali di clock differenti oppure quando riceviamo ingressi in momenti arbitrari.
 ___
-### Automa con reti sequenziali
-Prendiamo come esempio il seguente automa di **Mealy**:
-![[automaMealy.png|500]]
-definiamo gli stati e i possibili ingressi come
-$$
-\begin{align}
-stati &\in \{S_0, S_1, S_2\}\\
-ing &\in \{a, b\}
-\end{align}
-$$
-dove indichiamo gli stati rispettivamente con $00, 01, 10$ e gli ingressi con $0, 1$.
-Possiamo rappresentare il precedente automa con due tabelle di verità, la prima che prende un input e uno stato e definisce lo stato di destinazione e l'altra che dato lo stato definisce l'output:
-La dicitura $St_n$ indica l'$n$-esimo bit dello stato.
-$$
-\begin{array}{c c c|c c}
-St_1 & St_0 & x & St_1' & St_0'\\
-\hline
-0 & 0 & 0 & 0 & 1\\
-0 & 0 & 1 & 0 & 0\\
-0 & 1 & 0 & 0 & 1\\
-0 & 1 & 1 & 1 & 0\\
-1 & 0 & - & 0 & 0\\
-\end{array}
-\Rightarrow
-\begin{align}
-St_1' &= \overline{St_1} \cdot St_0 \cdot x\\
-St_0' &= \overline{St_1} \cdot \overline{St_0} \cdot \overline{x}+
-		\overline{St_1} \cdot St_0 \cdot \overline{x}
-\end{align}
-$$
-$$
-\begin{array}{c c c|c}
-St_1 & St_0 & x & Z\\
-\hline
-0 & 0 & - & 0\\
-0 & 1 & - & 0\\
-1 & 0 & 0 & 1\\
-1 & 0 & 1 & 0\\
-\end{array}
-\Rightarrow
-\begin{align}
-Z = St_1 \cdot \overline{St_0} \cdot \overline x
-\end{align}
-$$
-Queste tabelle possono essere quindi "contenute" in componenti singoli che, con l'aggiunta di un [[D - flip flop#Write enable (registro)|registro]], rendono possibile il funzionamento dell'automa.
-Lo schema risultante è il seguente
-![[circuitoAutomaMealy.png]]
+### Ritardo delle reti sequenziali
+Per far sì che il flip-flop produca un'uscita ben definita gli ingressi devono essere stabili al momento della lettura.
+Il **tempo di apertura** di un elemento sequenziale viene definito in due parti:
+- il **tempo di setup** $t_{setup}$ è prima del fronte del clock;
+- il **tempo di hold** $t_{hold}$ è dopo il fronte del clock.
+Nel momento che il clock presenta il fronte di salita, si scrivono i nuovi ingressi e di conseguenza cominciano a cambiare le uscite dopo un **ritardo di contaminazione** detto $t_{ccq}$ e si devono stabilizzare su un valore definitivo entro il ritardo di propagazione $t_{pcq}$.
+Per fare si che gli ingressi vengano interpretati in modo corretto essi devono essersi stabilizzati entro il $t_{setup}$ e devono restarlo per la durata di $t_{hold}$.
+
+Il periodo del clock è quindi dato dalla somma $t_{setup} + t_{hold} +$ i tempi di scrittura e lettura del registro in modo tale da permettere a tutti i segnali di stabilizzarsi, ponendo quindi un limite alla velocità massima del sistema. Nella realtà però c'è un altro fattore che porta a dover ulteriormente rallentare il clock e cioè che esso non raggiunge tutti i flip-flop allo stesso momento, questo ritardo è chiamato **tempo di sfasamento**.
+
