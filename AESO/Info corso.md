@@ -13,7 +13,9 @@
 [[Verilog]]
 [[Reti sequenziali]]
 [[Memorie associative]]
+[[Parallelismo]]
 ## Compitino 2 (assembler)
+[[Assembly]]
 
 ## Compitino 3 (linguaggio macchina e micro architetture)
 

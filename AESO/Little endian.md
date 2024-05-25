@@ -1,0 +1,2 @@
+Memorizzare dati secondo la logica little endian significa che i bit più significativi sono a destra.
+Questo significa che se prendo un registro da 4 byte i dati andranno letti/scritti da `ind+3` a `ind`.

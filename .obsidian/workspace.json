@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "7bfaa98ad3254d2a",
+            "id": "70561b306eb76497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AESO/Reti sequenziali.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8de52f2ab79cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AESO/Memorie.md",
+                "file": "AESO/Assembly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "de2600a64dbea9fa",
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AESO/Memorie.md",
+                "file": "AESO/Aeso.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AESO/Memorie.md",
+                "file": "AESO/Aeso.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AESO/Memorie.md"
+                "file": "AESO/Aeso.pdf"
               }
             }
           }
@@ -198,12 +186,19 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "5b8de52f2ab79cac",
+  "active": "919485b299e97ffd",
   "lastOpenFiles": [
-    "AESO/Info corso.md",
-    "AESO/Reti sequenziali.md",
-    "AESO/Memorie.md",
+    "AESO/Assembly.md",
     "AESO/Aeso.pdf",
+    "AESO/Info corso.md",
+    "AESO/ARM.md",
+    "AESO/Little endian.md",
+    "AESO/Parallelismo.md",
+    "AESO/Misure.md",
+    "AESO/misure primitive^.md",
+    "AESO/Memorie.md",
+    "AESO/Reti sequenziali.md",
+    "AESO/RAM e ROM.md",
     "AESO/Sincronizzatori.md",
     "Immagini/circuitoSincronizzatore.png",
     "AESO/Automi.md",
@@ -230,11 +225,6 @@
     "AESO/MUX.md",
     "Spaces/Home",
     "Spaces",
-    "AESO/Porte logiche.md",
-    "AESO/Ritardo della porta.md",
-    "AESO/Numeri binari negativi.md",
-    "vdc visite mediche.md",
-    "E-Team/ROS2.md",
-    "AESO/Complemento a 2.md"
+    "AESO/Porte logiche.md"
   ]
 }
