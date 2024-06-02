@@ -19,3 +19,5 @@
 
 ## Compitino 3 (linguaggio macchina e micro architetture)
 
+[[Linguaggio macchina]]
+[[Microarchitetture]]

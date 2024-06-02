@@ -5,5 +5,7 @@
   "obsidian-tikzjax",
   "make-md",
   "multi-column-markdown",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "multiple-notes-outline",
+  "code-styler"
 ]
