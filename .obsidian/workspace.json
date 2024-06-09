@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AESO/Aeso.pdf",
+                "file": "AESO/Linguaggio macchina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AESO/Aeso.pdf",
+                "file": "AESO/Linguaggio macchina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AESO/Aeso.pdf"
+                "file": "AESO/Linguaggio macchina.md"
               }
             }
           }
@@ -187,11 +187,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "919485b299e97ffd",
+  "active": "fd4750d2a7d320e5",
   "lastOpenFiles": [
+    "AESO/Aeso.pdf",
     "AESO/Linguaggio macchina.md",
     "AESO/Info corso.md",
-    "AESO/Aeso.pdf",
     "AESO/Assembly.md",
     "AESO/ARM.md",
     "AESO/Little endian.md",
@@ -226,7 +226,6 @@
     "AESO/DEMUX.md",
     "AESO/MUX.md",
     "Spaces/Home",
-    "Spaces",
-    "AESO/Porte logiche.md"
+    "Spaces"
   ]
 }
