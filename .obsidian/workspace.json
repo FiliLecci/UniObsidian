@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3c5b434b675af73",
+            "id": "df75ef94a9bb96a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AESO/Info corso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd4750d2a7d320e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AESO/Linguaggio macchina.md",
+                "file": "AESO/Microarchitetture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "de2600a64dbea9fa",
@@ -102,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,9 +154,17 @@
                 "file": "AESO/Linguaggio macchina.md"
               }
             }
+          },
+          {
+            "id": "f73696115755f0a9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,12 +215,9 @@
     "Immagini/Screenshot_20240412_115630.png",
     "Statistica/02-02-2024.md",
     "AESO/Clock.md",
-    "Immagini/flipflopD.png",
     "AESO/D - Latch.md",
-    "Immagini/latchD.png",
     "AESO/Parità.md",
     "AESO/DEMUX.md",
-    "AESO/MUX.md",
     "Spaces/Home",
     "Spaces"
   ]
