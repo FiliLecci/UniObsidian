@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:AESO  ",
+  "search": "path:\"Interazione uomo-macchina\"  ",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 3.43035343035343,
   "linkStrength": 1,
   "linkDistance": 363,
-  "scale": 0.7668884283703693,
+  "scale": 0.7141449955094118,
   "close": true
 }

@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"9c87a8b98141768a","type":"group","x":80,"y":-180,"width":300,"height":580,"color":"2","label":"vehicle_controller"},
+		{"id":"1cfd736b9aabb1eb","type":"group","x":-340,"y":-180,"width":300,"height":380,"color":"6","label":"main"},
+		{"id":"520c5c70fa12b948","type":"text","text":"Legge messaggi ROS","x":100,"y":-160,"width":250,"height":60},
+		{"id":"f6bef79bde990478","type":"text","text":"Legge dallo stack gli input","x":-320,"y":-160,"width":250,"height":60},
+		{"id":"c47681c5375ab052","type":"text","text":"Crea messaggi ROS\n","x":-320,"y":-40,"width":250,"height":56},
+		{"id":"87c5d4cf0addf331","type":"text","text":"Manda messaggio ROS2 al vehicle controller","x":-320,"y":80,"width":250,"height":56},
+		{"id":"bc642e3b5778a0e0","type":"text","text":"Salva dati in array","x":100,"y":-40,"width":250,"height":56},
+		{"id":"9b93e86e84678663","type":"text","text":"Imposta gli input sul veicolo","x":100,"y":80,"width":250,"height":56},
+		{"id":"433fc73a7a6c708d","type":"text","text":"Crea il log in formato CSV","x":100,"y":200,"width":250,"height":56},
+		{"id":"97af9a6df2af3477","type":"text","text":"Visualizza il plotting dei dati","x":100,"y":320,"width":250,"height":56},
+		{"id":"343ece437da58b54","type":"text","text":"Registra rosbag","x":420,"y":-40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"96e3a979feed4bfa","fromNode":"87c5d4cf0addf331","fromSide":"right","toNode":"520c5c70fa12b948","toSide":"left"},
+		{"id":"0719f05698be1161","fromNode":"520c5c70fa12b948","fromSide":"right","toNode":"343ece437da58b54","toSide":"top"},
+		{"id":"6d79580a85237403","fromNode":"f6bef79bde990478","fromSide":"bottom","toNode":"c47681c5375ab052","toSide":"top"},
+		{"id":"1d30a53afba796d7","fromNode":"c47681c5375ab052","fromSide":"bottom","toNode":"87c5d4cf0addf331","toSide":"top"},
+		{"id":"54c5a885d9a58fd5","fromNode":"520c5c70fa12b948","fromSide":"bottom","toNode":"bc642e3b5778a0e0","toSide":"top"},
+		{"id":"e5d154d33c280c98","fromNode":"bc642e3b5778a0e0","fromSide":"bottom","toNode":"9b93e86e84678663","toSide":"top"},
+		{"id":"c768f3f99c7950fe","fromNode":"9b93e86e84678663","fromSide":"bottom","toNode":"433fc73a7a6c708d","toSide":"top"},
+		{"id":"a8e57733421d3120","fromNode":"433fc73a7a6c708d","fromSide":"bottom","toNode":"97af9a6df2af3477","toSide":"top"}
+	]
+}
