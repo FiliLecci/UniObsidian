@@ -1,6 +1,6 @@
 Come suggerisce il nome, questo concetto è incentrato sull'uomo e a stretto contatto con la psicologia.
 
-L'idea del prodotto incentrato sull'uomo nasce da un'idea di [[Nielsen Norman]] che notò la crescente frustrazione delle persone dovuta alla complessità sempre maggiore delle tecnologie.
+L'idea del prodotto incentrato sull'uomo nasce da un'idea di [[Nielsen Norman]] che notò la crescente frustrazione delle persone dovuta alla complessità sempre maggiore delle tecnologie. ^623c8a
 
 Per rendere la semplificazione possibile si deve fare in modo che l'interazione tra utente e [[Prodotto]] sia il più trasparente possibile; l'utente non deve essere in grado di vedere gli ingranaggi e i meccanismi dietro le cose.
 

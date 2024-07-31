@@ -1,0 +1,4 @@
+- [ ] Vestito Ulisse
+- [ ] Veglia alle stelle
+- [ ] Chiave di cartoncino tagliata
+- [ ] Bibbia

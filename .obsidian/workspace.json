@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "b7fad6d5e68a1c8f",
+    "id": "0cbe3073995e3ab1",
     "type": "split",
     "children": [
       {
-        "id": "856dde0ef0d121cc",
+        "id": "04b15cd7de5a07f4",
         "type": "tabs",
         "children": [
           {
-            "id": "8d9fde0553c55588",
+            "id": "c1b3369fbb292283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interazione uomo-macchina/Appunti_interazione_uomo_macchina.md",
+                "file": "Roba da fare per il campo.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4be371e06654ab80",
+    "id": "ef75c4707b9a9441",
     "type": "split",
     "children": [
       {
-        "id": "31a04d44cac7a8bf",
+        "id": "12fa962754a312ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b2831bd2c0a70ca1",
+            "id": "6bf976b199ee3dc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "46121abaa05b0edc",
+            "id": "9618b6317a0243a5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "6b86d482f1ad4a16",
+            "id": "854974abbd984305",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "730508daa34feafc",
+            "id": "d71a7b48c9b59076",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,24 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "6c00679dfecc5fb5",
+    "id": "3cc7d4eb21dac575",
     "type": "split",
     "children": [
       {
-        "id": "0bde7ee28d6bd957",
+        "id": "33f3cc2a3368deb9",
         "type": "tabs",
         "children": [
           {
-            "id": "348f8f0668c83ce7",
+            "id": "650c733de3c05331",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "AESO/Linguaggio macchina.md",
-=======
-                "file": "Interazione uomo-macchina/Appunti_interazione_uomo_macchina.md",
->>>>>>> 3e9fd53 (IUM sppunti)
+                "file": "Roba da fare per il campo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,23 +105,19 @@
             }
           },
           {
-            "id": "bab7fb9900ab3151",
+            "id": "7a02291cdf5c7b13",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "AESO/Linguaggio macchina.md",
-=======
-                "file": "Interazione uomo-macchina/Appunti_interazione_uomo_macchina.md",
->>>>>>> 3e9fd53 (IUM sppunti)
+                "file": "Roba da fare per il campo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3894f1a915cc8a29",
+            "id": "20efae097252ea2f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,29 +128,16 @@
             }
           },
           {
-            "id": "b7364abc40d8363c",
+            "id": "6ac0ff7abef0ecc1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "AESO/Linguaggio macchina.md"
-=======
-                "file": "Interazione uomo-macchina/Appunti_interazione_uomo_macchina.md"
->>>>>>> 3e9fd53 (IUM sppunti)
+                "file": "Roba da fare per il campo.md"
               }
             }
-          },
-          {
-            "id": "f73696115755f0a9",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,8 +147,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Apri vista grafo": false,
       "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
@@ -177,65 +156,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-<<<<<<< HEAD
-  "active": "fd4750d2a7d320e5",
+  "active": "c1b3369fbb292283",
   "lastOpenFiles": [
-    "AESO/Aeso.pdf",
-    "AESO/Linguaggio macchina.md",
-    "AESO/Info corso.md",
-    "AESO/Assembly.md",
-    "AESO/ARM.md",
-    "AESO/Little endian.md",
-    "AESO/Parallelismo.md",
-    "AESO/Misure.md",
-    "AESO/misure primitive^.md",
-    "AESO/Memorie.md",
-    "AESO/Reti sequenziali.md",
-    "AESO/RAM e ROM.md",
-    "AESO/Sincronizzatori.md",
-=======
-  "active": "8d9fde0553c55588",
-  "lastOpenFiles": [
-    "Interazione uomo-macchina/Appunti_interazione_uomo_macchina.pdf",
-    "Interazione uomo-macchina/Design del prodotto.md",
-    "Interazione uomo-macchina/Signifiers.md",
-    "Interazione uomo-macchina/Affordance.md",
-    "Interazione uomo-macchina/Understanding.md",
-    "Interazione uomo-macchina/Discoverability.md",
-    "Interazione uomo-macchina/Human centered design.md",
-    "vdc visite mediche.md",
-    "Senza nome.md",
-    "Senza nome.canvas",
-    "Divide et impera.md",
-    "Interazione uomo-macchina/Pensiero computazionale.md",
     "Interazione uomo-macchina/Prodotto.md",
-    "Interazione uomo-macchina/Principio di indeterminazione.md",
-    "Interazione uomo-macchina/Requirements del prodotto.md",
-    "Interazione uomo-macchina/Product designer.md",
-    "Interazione uomo-macchina/UX design.md",
-    "Interazione uomo-macchina/Target.md",
-    "Interazione uomo-macchina/Interaction design.md",
-    "AESO/Assembly.md",
-    "AESO/Info corso.md",
-    "AESO/Memorie associative.md",
-    "AESO/Parità.md",
-    "AESO/D - Latch.md",
-    "AESO/Latch SR.md",
-    "AESO/Aeso.pdf",
-    "AESO/Misure.md",
-    "AESO/Parallelismo.md",
-    "Immagini/singleCycleProcessor.png",
-    "Immagini/registerFileInternal.png",
-    "Immagini/registerFile.png",
->>>>>>> 3e9fd53 (IUM sppunti)
-    "Immagini/circuitoSincronizzatore.png",
-    "Immagini/automaMoore.png",
-    "Immagini/circuitoAutomaMoore.png",
-    "Immagini/circuitoAutomaMealy.png",
-    "Immagini/Screenshot_20240412_145223.png",
-    "Immagini/automaMealy.png",
-    "Immagini/automaMeely.png",
-    "Spaces/Home",
-    "Spaces"
+    "Senza nome.canvas",
+    "Interazione uomo-macchina/Affordance.md",
+    "Roba da fare per il campo.md",
+    "Interazione uomo-macchina/Appunti_interazione_uomo_macchina.md",
+    "Divide et impera.md"
   ]
 }

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9ab9885f382ab1d2","x":136,"y":-161,"width":400,"height":400,"type":"file","file":"Interazione uomo-macchina/Prodotto.md"},
+		{"id":"06a539dade0e83dc","x":-324,"y":-93,"width":250,"height":60,"type":"text","text":"vdfjgsdk\n"}
+	],
+	"edges":[
+		{"id":"20e0a87a134e1be9","fromNode":"06a539dade0e83dc","fromSide":"right","toNode":"9ab9885f382ab1d2","toSide":"left"}
+	]
+}
